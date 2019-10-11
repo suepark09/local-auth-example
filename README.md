@@ -1,6 +1,6 @@
-# Basic express.js app using knex.js
+# Local authentication example using Passport in node.js
 
-A very basic [express.js] application using [knex.js].
+A very basic [express.js] application using [knex.js] and Passort for local authentication
 
 [express.js]:https://expressjs.com/
 [knex.js]:http://knexjs.org/
